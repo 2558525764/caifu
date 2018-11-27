@@ -389,10 +389,10 @@ fieldset[disabled] .heima_nav .btn-link:focus{
     font-size: 16px;
     margin: 10px 0;
 }
-.product_box.active .product_box_left{
-    /* color: #fff; */
+/* .product_box.active .product_box_left{
+     color: #fff; 
     
-}
+} */
 .product_box .product_box_left>div{
     margin: 10px;
 }
@@ -435,9 +435,9 @@ fieldset[disabled] .heima_nav .btn-link:focus{
     margin-top: 90px;
     color: #e92322;
 }
-.product_box.active .product_box_right p{
-    /* color: #fff; */
-}
+/* .product_box.active .product_box_right p{
+     color: #fff; 
+} */
 .product_box_right p:first-of-type sub{
     bottom: 0;
 }
